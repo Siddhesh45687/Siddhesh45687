@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Siddhesh45687/Siddhesh45687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+markdown<br>## 🚀 About Me<br><br>Hi there! 👋 I'm **Siddhesh Mange**, a passionate **Data Science & Artificial Intelligence** student dedicated to transforming data into meaningful insights and building intelligent solutions with Machine Learning and AI.<br><br>🎓 **Bachelor of Science in Data Science & Artificial Intelligence** <br>🏫 Ramniranjan Jhunjhunwala College <br>📈 **CGPA:** 9.28/10<br><br>💡 I enjoy solving real-world problems through data-driven approaches, developing predictive models, and continuously learning modern AI technologies.<br><br>---<br><br>## 🌱 Currently Learning<br><br>- 🤖 Machine Learning & Deep Learning<br>- 🧠 Natural Language Processing (NLP)<br>- 📊 Data Analytics & Data Visualization<br>- ☁️ MLOps & Cloud for AI<br>- 🚀 Advanced Python<br><br>---<br><br>## 💻 Tech Stack<br><br>### 👨‍💻 Languages<br>- Python<br>- SQL<br>- R<br><br>### 📊 Data Science<br>- Data Analysis<br>- Data Cleaning<br>- Exploratory Data Analysis (EDA)<br>- Statistics<br>- Feature Engineering<br>- Predictive Modeling<br><br>### 🤖 Machine Learning<br>- Supervised Learning<br>- Unsupervised Learning<br>- Random Forest<br>- XGBoost<br>- Model Evaluation<br>- SMOTE<br><br>### 🧠 Artificial Intelligence<br>- Deep Learning<br>- Natural Language Processing (NLP)<br><br>### 🛠️ Tools<br>- Git<br>- GitHub<br>- Jupyter Notebook<br><br>---<br><br>## 🚀 Featured Projects<br><br>| Project | Description |<br>|---------|-------------|<br>| 🩺 **[Stroke Health Prediction](https://github.com/YOUR_USERNAME/Stroke-Health-Prediction)** | Machine Learning model that predicts stroke risk using healthcare data with EDA, SMOTE, Random Forest, and XGBoost. |<br>| 🧠 **[Teen Mental Health Prediction](https://github.com/YOUR_USERNAME/Teen-Mental-Health-Prediction)** | Built multiple ML models to predict depression levels based on lifestyle and behavioral patterns, achieving **99.58% accuracy**. |<br><br>---<br><br>### 📌 Project Links<br><br>[![Stroke Health Prediction](https://img.shields.io/badge/Stroke%20Health%20Prediction-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Stroke-Health-Prediction)<br><br>[![Teen Mental Health Prediction](https://img.shields.io/badge/Teen%20Mental%20Health-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Teen-Mental-Health-Prediction)<br><br>---<br><br>## 💼 Experience<br><br>### Proctor | Enfuse Solutions<br><br>- Conducted identity verification and examination setup.<br>- Monitored examinations while maintaining integrity.<br>- Ensured compliance with examination regulations.<br>- Assisted in smooth execution of examinations.<br><br>---<br><br>## 🎯 Career Goal<br><br>I am actively seeking opportunities in **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Data Analytics**, where I can apply my technical skills, contribute to impactful projects, and continue learning.<br><br>---<br><br>## 🤝 Open to Collaborate On<br><br>- 📊 Data Science Projects<br>- 🤖 Machine Learning Applications<br>- 🧠 Artificial Intelligence Projects<br>- 🌍 Open Source Contributions<br><br>---<br><br>## 📜 Certifications<br><br>- 🏆 Python Machine Learning Bootcamp<br>- 🏆 30 Days SQL Micro Course<br>- 🏆 Data Science Job Simulation<br><br>---<br><br>## 📫 Connect With Me<br><br>📧 **Email:** siddheshmange4@gmail.com<br><br>💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME<br><br>🐙 **GitHub:** https://github.com/YOUR_USERNAME<br><br>---<br><br>> **"Turning data into decisions, and ideas into intelligent solutions."** 🚀<br>
 
-Here are some ideas to get you started:
+🌐 Socials:
+Instagram LinkedIn [Mastodon](https://mastodon.social/@Siddhesh Mange) email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+Python R Vercel Render Anaconda FastAPI Streamlit Postgres MySQL MicrosoftSQLServer Canva Keras Matplotlib NumPy Pandas scikit-learn Scipy TensorFlow GitHub Git Power Bi
+
+📊 GitHub Stats:
+
+
+
+
+
+
