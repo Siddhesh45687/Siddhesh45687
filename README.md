@@ -325,6 +325,81 @@ Real-world applications
 
 ---
 
+# 🧩 LeetCode Statistics
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Siddhesh6383/">
+
+<img
+src="https://leetcard.jacoblin.cool/Siddhesh6383?theme=dark&font=Karma&ext=heatmap"
+width="95%"
+alt="Siddhesh Mange LeetCode Statistics"
+/>
+
+</a>
+
+<br/><br/>
+
+### 💻 Problem Solving Progress
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<h3>🟢 EASY</h3>
+
+<img
+src="https://img.shields.io/badge/EASY-SOLVED-00E676?style=for-the-badge&labelColor=050505"
+alt="LeetCode Easy"
+/>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🟡 MEDIUM</h3>
+
+<img
+src="https://img.shields.io/badge/MEDIUM-SOLVED-FFA116?style=for-the-badge&labelColor=050505"
+alt="LeetCode Medium"
+/>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🔴 HARD</h3>
+
+<img
+src="https://img.shields.io/badge/HARD-SOLVED-EF4743?style=for-the-badge&labelColor=050505"
+alt="LeetCode Hard"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<a href="https://leetcode.com/u/Siddhesh6383/">
+
+<img
+src="https://img.shields.io/badge/LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000"
+alt="Visit LeetCode Profile"
+/>
+
+</a>
+
+<br/><br/>
+
+### 🚀 Keep Solving • Keep Learning • Keep Improving
+
+</div>
+
+
 # 🔥 Contribution Streak
 
 <div align="center">
