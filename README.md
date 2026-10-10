@@ -210,33 +210,49 @@ Predicting stroke risk using **patient health, demographic, and lifestyle inform
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E676?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
+<a href="https://stroke-risk-prediction-fpaah3sljgcot99nxuy9wm.streamlit.app/">
+<img src="https://img.shields.io/badge/LIVE%20APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
 </td>
 
 <td width="50%" valign="top">
 
-## 🧠 Teen Mental Health Prediction
+## 🔋 EV Battery Failure Prediction
 
-A Machine Learning project analyzing **lifestyle and behavioral factors** to predict depression levels among teenagers.
+An AI/ML project using **XGBoost** to predict potential electric vehicle battery failures based on battery health, charging behavior, vehicle usage, electrical, thermal, and maintenance-related features.
 
 ### 🔥 Key Highlights
 
-- 📈 **1200+ Records**
-- 📱 Social Media Usage Analysis
-- 😴 Sleep Pattern Analysis
-- 📊 Exploratory Data Analysis
-- ⚙️ Feature Engineering
-- 🤖 Multiple Machine Learning Models
-- 🚀 XGBoost
-- 🏆 **99.58% Accuracy**
+- 📈 **200,000 Records**
+- 🔋 Battery Health & Degradation Analysis
+- ⚡ Charging, Voltage & Temperature Analysis
+- 📊 Exploratory Data Analysis (EDA)
+- 🧹 Data Preprocessing & Feature Engineering
+- ⚖️ SMOTE-Based Class Balancing
+- 🤖 Comparison of Multiple Machine Learning Models
+- 🚀 XGBoost Classification Model
+- 🏆 **96.52% Accuracy**
+- 📉 **0.9885 ROC-AUC Score**
+- 🌐 Interactive Streamlit Application
+- 📊 Enterprise-Style Analytics Dashboard
 
 ### 🛠️ Tech Stack
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost`
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `SMOTE` `Streamlit` `Plotly` `Google Antigravity`
 
 <br/>
 
-<a href="https://github.com/Siddhesh45687/Mental-Health-Prediction">
+<a href="https://github.com/Siddhesh45687/EV_Battery_Failure_Prediction">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00E676?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+<a href="https://ev-battery-failure-predictor.streamlit.app/">
+<img src="https://img.shields.io/badge/LIVE%20APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<a href="https://siddhesh45687.github.io/EV_Battery_Failure_Prediction/">
+<img src="https://img.shields.io/badge/LIVE%20DASHBOARD-2196F3?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 </td>
